@@ -16,3 +16,4 @@ We should use the newest tech, but not because it is new, more about to learn so
 * NoSQL database ([mongoDb](http://www.mongodb.org/) or [couchDb](http://couchdb.apache.org/))
 * [Twitter Bootstrap](http://twitter.github.io/bootstrap/) (for patterns and responsive design)
 * [bower](https://github.com/bower/bower) as UI package management system
+* [normalize.css](https://github.com/necolas/normalize.css) for do avoid css problems
