@@ -19,3 +19,4 @@ We should use the newest tech, but not because it is new, more about to learn so
 * [bower](https://github.com/bower/bower) as UI package management system
 * [normalize.css](https://github.com/necolas/normalize.css) for do avoid css problems
 * [rsvp.js](https://github.com/tildeio/rsvp.js) Could be a good why to simplify XHR
+* [less.css](http://lesscss.org/) for simpler css
