@@ -23,3 +23,4 @@ We should use the newest tech, but not because it is new, more about to learn so
 * [rsvp.js](https://github.com/tildeio/rsvp.js) Could be a good why to simplify XHR
 * [less.css](http://lesscss.org/) for simpler css
 * [noBackend](http://nobackend.org/index.html) Instead of using complex Node.js 
+* jsDay2013 may unveil great news and tool to develop in the rigth way (best practise) http://2013.jsday.it/schedule/
