@@ -25,3 +25,4 @@ We should use the newest tech, but not because it is new, more about to learn so
 * [noBackend](http://nobackend.org/index.html) Instead of using complex Node.js 
 * Important Documentation and new Infos can be found at http://www.webplatform.org/ and http://www.html5rocks.com/en/
 * jsDay2013 may unveil great news and tool to develop in the rigth way (best practise) http://2013.jsday.it/schedule/
+* realtime sync with socet.io https://github.com/btford/angular-socket-io-seed
