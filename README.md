@@ -9,6 +9,10 @@ Many people in the academic field know how hard it is to find volunteers for our
 
 This is a short description and rulez of a Participant Database used at the Einhoven University of Technology http://www.bartneck.de/2006/02/20/participant-database/
 
+Similar Systems
+-----------------------
+* This is recroutment page used by the economy department at the UC http://econ-vubuntu.canterbury.ac.nz/orsee-2.0.2/public/index.php
+
 Technology we shoud use
 -----------------------
 We should use the newest tech, but not because it is new, more about to learn something new while we create the system.
