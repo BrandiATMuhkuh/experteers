@@ -12,6 +12,7 @@ This is a short description and rulez of a Participant Database used at the Einh
 Similar Systems
 -----------------------
 * This is recroutment page used by the economy department at the UC http://econ-vubuntu.canterbury.ac.nz/orsee-2.0.2/public/index.php
+* http://www.findparticipants.com/pricing/ (expensive)
 
 Technology we shoud use
 -----------------------
